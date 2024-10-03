@@ -18,9 +18,9 @@
 #
 ---
 include:
-  - board: adafruit_qt_py_rp2040
+  - board: nice_nano_v2
     shield: lily58_left
-  - board: adafruit_qt_py_rp2040
+  - board: nice_nano_v2
     shield: lily58_right
   - board: adafruit_qt_py_rp2040
     shield: settings_reset
