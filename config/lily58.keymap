@@ -44,7 +44,7 @@
 &trans     &trans           &trans            &trans            &trans       &trans                       &trans    &trans    &kp UP    &trans    &trans    &kp EQUAL
 &kp LCTRL  &trans           &trans            &trans            &trans       &trans                       &trans    &kp LEFT  &kp DOWN  &kp RIGHT &trans    &kp PIPE
 &kp HOME   &trans           &trans            &trans            &trans       &trans    &trans   &trans    &trans    &trans    &trans    &trans    &trans    &kp END
-                                              &trans            &trans       &trans    &trans   &trans    &trans    &trans    &trans
+                                              &trans            &trans       &trans    &ext_power EP_ON   &trans    &trans    &trans    &trans
             >;
             display-name = "1";
         };
